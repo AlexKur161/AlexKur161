@@ -9,4 +9,4 @@
 
 :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/Zc0zSSoAukbte/giphy.gif" height="10"> from Russia.
+I am a Frontend Developer <img src="https://media.giphy.com/media/Zc0zSSoAukbte/giphy.gif" height="10"> from Russia.
