@@ -10,3 +10,5 @@
 :man_technologist: About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/Zc0zSSoAukbte/giphy.gif" height="10"> from Russia.
+
+A GeekBrains student with commercial experience in creating full-fledged websites and layout for services for frontend developers. I'm not standing still, studying various current technologies, and I'm ready for new challenges!
