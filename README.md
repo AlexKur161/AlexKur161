@@ -4,5 +4,7 @@
     <img src="https://cdn.pngsumo.com/resume-resume-png-resume-png-1024_1024.png" alt="resume" height="200"/>
   </a>
 </div>
+
 ---
+
 :man_technologist: About Me :
